@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date Thu 08 Aug 2013 16:13:07 CEST
+EESchema Schematic File Version 2  date Fri 09 Aug 2013 04:03:36 CEST
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -30,6 +30,7 @@ LIBS:atmel
 LIBS:contrib
 LIBS:valves
 LIBS:Monolito-1_2
+LIBS:hebi-cache
 EELAYER 24 0
 EELAYER END
 $Descr A4 11693 8268
