@@ -1,0 +1,61 @@
+Pin assigment for STM32F407VG uC
+================================================================================
+
+PA
+---------------------------------------
+* PA0 -> UART4 Tx
+* PA1 -> UART4 Rx
+* PA2 -> USART2 Tx (irDA) {Either this or PD5}
+* PA3 -> USART2 Rx (irDA) {Either this or PD6}
+* PA4 -> SPI1 NSS
+* PA5 -> SPI1 SCK
+* PA6 -> SPI1 MISO
+* PA7 -> SPI1 MOSI
+* PA8 -> I2C3 SCL
+* PA9 -> USB_POWER {VBUS_FS}
+* PA10 -> OTG_FS ID
+* PA11 -> OTG_FS DM
+* PA12 -> OTG_FS DP
+* PA13 -> JTMS-SWDIO {debug interface}
+* PA14 -> SWCLK {debug interface}
+* PA15 -> SPI3 NSS ?
+
+PB
+---------------------------------------
+* PB0 -> TIM3 CH3 (SERVO3)
+* PB3 -> T_SWO {debug interface}
+* PB6 -> USART1 Tx (irDA)
+* PB7 -> USART1 Rx (irDA)
+* PB8 -> TIM10 CH1 (LED2)
+* PB9 -> TIM11 CH1 (LED3)
+* PB10 -> I2C2 SCL
+* PB11 -> I2C2 SDA
+* PB14 -> TIM12 CH1 (LED4)
+
+PC
+---------------------------------------
+* PC0 -> ADC1 (1&2&3) ch 10  {OTG_FS_PowerSwitchOn}
+* PC1 -> ADC2 (1&2&3) ch 11
+* PC3 -> ADC1 (1&2&3) ch 13  {Either this or PC0}
+* PC4 -> ADC3 (1&2) ch 14
+* PC6 -> USART6 Tx (irDA)
+* PC7 -> USART6 Rx (irDA)
+* PC8 -> TIM8 CH3 (SERVO2)
+* PC9 -> I2C3 (SDA)
+* PC10 -> [SPI3] (Remove)
+* PC11 -> [SPI3] (Remove)
+* PC12 -> UART5 Tx
+
+PD
+---------------------------------------
+* PD2 -> UART5 Rx
+* PD5 -> USART2 Tx (irDA) {OTG_FS_OverCurrent}
+* PD6 -> USART2 Rx (irDA)
+* PD8 -> USART3 Tx (irDA)
+* PD9 -> USART3 Rx (irDA)
+* PD12 -> TIM4 CH1 (BUTTON)
+
+PE 
+---------------------------------------
+* PE5 -> TIM9 CH1 (LED1)
+* PE9 -> TIM1 CH1 (SERVO1)

@@ -1,4 +1,4 @@
-update=Thu 08 Aug 2013 12:40:12 CEST
+update=Tue 14 Jan 2014 16:43:22 CET
 version=1
 last_client=eeschema
 [cvpcb]
@@ -85,3 +85,5 @@ LibName28=atmel
 LibName29=contrib
 LibName30=valves
 LibName31=/home/def/Dropbox/Share/Kicad/monolito-1.2/Monolito-1_2
+LibName32=STM32F407VG
+LibName33=F4Dev-cache

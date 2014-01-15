@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date Fri 09 Aug 2013 04:03:36 CEST
+EESchema Schematic File Version 2  date Wed 15 Jan 2014 16:45:16 CET
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -30,14 +30,16 @@ LIBS:atmel
 LIBS:contrib
 LIBS:valves
 LIBS:Monolito-1_2
+LIBS:STM32F407VG
+LIBS:F4Dev-cache
 LIBS:hebi-cache
 EELAYER 24 0
 EELAYER END
-$Descr A4 11693 8268
+$Descr A3 16535 11693
 encoding utf-8
-Sheet 1 1
-Title "HEBI - Electronic Board for Modular Robots"
-Date "8 aug 2013"
+Sheet 1 2
+Title "HEBI - Electronic Board for Modular Robots (STM32F4 flavour)"
+Date "15 jan 2014"
 Rev "0.1.0"
 Comp "David Estévez Fernández"
 Comment1 ""
@@ -654,4 +656,10 @@ Wire Wire Line
 	2200 6150 1800 6150
 Wire Wire Line
 	2200 6250 1800 6250
+$Sheet
+S 11250 5750 2550 2000
+U 52D5580C
+F0 "STM32F4_uC" 50
+F1 "STM32F4xx.sch" 50
+$EndSheet
 $EndSCHEMATC
