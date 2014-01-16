@@ -1,4 +1,4 @@
-update=Tue 14 Jan 2014 16:43:22 CET
+update=Thu 16 Jan 2014 13:52:55 CET
 version=1
 last_client=eeschema
 [cvpcb]
@@ -87,3 +87,5 @@ LibName30=valves
 LibName31=/home/def/Dropbox/Share/Kicad/monolito-1.2/Monolito-1_2
 LibName32=STM32F407VG
 LibName33=F4Dev-cache
+LibName34=/home/def/Repositories/Snakeduino/src/ferrite
+LibName35=/home/def/Dropbox/d-squared Robotics/SMT4dummies/Opendous Kicad Libraries and Modules/opendous
