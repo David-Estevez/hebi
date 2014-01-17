@@ -1,4 +1,4 @@
-update=Thu 16 Jan 2014 13:52:55 CET
+update=Fri 17 Jan 2014 10:09:11 CET
 version=1
 last_client=eeschema
 [cvpcb]
@@ -89,3 +89,4 @@ LibName32=STM32F407VG
 LibName33=F4Dev-cache
 LibName34=/home/def/Repositories/Snakeduino/src/ferrite
 LibName35=/home/def/Dropbox/d-squared Robotics/SMT4dummies/Opendous Kicad Libraries and Modules/opendous
+LibName36=/home/def/Repositories/Snakeduino/src/mos_p_diode

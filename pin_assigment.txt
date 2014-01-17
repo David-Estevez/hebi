@@ -34,9 +34,8 @@ PB
 
 PC
 ---------------------------------------
-* PC0 -> ADC1 (1&2&3) ch 10  {OTG_FS_PowerSwitchOn}
+* PC0 -> ADC1 (1&2&3) ch 10  
 * PC1 -> ADC2 (1&2&3) ch 11
-* PC3 -> ADC1 (1&2&3) ch 13  {Either this or PC0}
 * PC4 -> ADC3 (1&2) ch 14
 * PC6 -> USART6 Tx (irDA)
 * PC7 -> USART6 Rx (irDA)
