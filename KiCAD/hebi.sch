@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date Fri 17 Jan 2014 12:14:24 CET
+EESchema Schematic File Version 2  date Tue 21 Jan 2014 12:34:10 CET
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -35,6 +35,9 @@ LIBS:F4Dev-cache
 LIBS:ferrite
 LIBS:opendous
 LIBS:mos_p_diode
+LIBS:mos_n_diode
+LIBS:74ahc2g126
+LIBS:dynamixel_conn_3
 LIBS:hebi-cache
 EELAYER 24 0
 EELAYER END
@@ -42,7 +45,7 @@ $Descr A3 16535 11693
 encoding utf-8
 Sheet 1 2
 Title "HEBI - Electronic Board for Modular Robots (STM32F4 flavour)"
-Date "17 jan 2014"
+Date "21 jan 2014"
 Rev "0.1.0"
 Comp "David Estévez Fernández"
 Comment1 ""

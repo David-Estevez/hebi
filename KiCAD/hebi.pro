@@ -1,4 +1,4 @@
-update=Fri 17 Jan 2014 10:09:11 CET
+update=Tue 21 Jan 2014 12:31:26 CET
 version=1
 last_client=eeschema
 [cvpcb]
@@ -90,3 +90,6 @@ LibName33=F4Dev-cache
 LibName34=/home/def/Repositories/Snakeduino/src/ferrite
 LibName35=/home/def/Dropbox/d-squared Robotics/SMT4dummies/Opendous Kicad Libraries and Modules/opendous
 LibName36=/home/def/Repositories/Snakeduino/src/mos_p_diode
+LibName37=mos_n_diode
+LibName38=74ahc2g126
+LibName39=dynamixel_conn_3
