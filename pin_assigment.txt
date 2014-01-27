@@ -28,8 +28,8 @@ PB
 * PB7 -> USART1 Rx (irDA)
 * PB8 -> TIM10 CH1 (LED2)
 * PB9 -> TIM11 CH1 (LED3)
-* PB10 -> I2C2 SCL
-* PB11 -> I2C2 SDA
+* PB10 -> I2C2 SCL (Internal bus)
+* PB11 -> I2C2 SDA (Internal bus)
 * PB14 -> TIM12 CH1 (LED4)
 
 PC

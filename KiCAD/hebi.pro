@@ -1,4 +1,4 @@
-update=Tue 21 Jan 2014 12:31:26 CET
+update=Fri 24 Jan 2014 12:37:59 CET
 version=1
 last_client=eeschema
 [cvpcb]
@@ -93,3 +93,5 @@ LibName36=/home/def/Repositories/Snakeduino/src/mos_p_diode
 LibName37=mos_n_diode
 LibName38=74ahc2g126
 LibName39=dynamixel_conn_3
+LibName40=l3gd20
+LibName41=lsm303dlhc
