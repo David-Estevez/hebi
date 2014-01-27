@@ -1,4 +1,4 @@
-update=Fri 24 Jan 2014 12:37:59 CET
+update=Mon 27 Jan 2014 12:07:53 CET
 version=1
 last_client=eeschema
 [cvpcb]
@@ -95,3 +95,4 @@ LibName38=74ahc2g126
 LibName39=dynamixel_conn_3
 LibName40=l3gd20
 LibName41=lsm303dlhc
+LibName42=mcp1825s

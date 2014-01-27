@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date Mon 27 Jan 2014 11:15:05 CET
+EESchema Schematic File Version 2  date Mon 27 Jan 2014 12:47:29 CET
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -40,6 +40,7 @@ LIBS:74ahc2g126
 LIBS:dynamixel_conn_3
 LIBS:l3gd20
 LIBS:lsm303dlhc
+LIBS:mcp1825s
 LIBS:hebi-cache
 EELAYER 24 0
 EELAYER END
