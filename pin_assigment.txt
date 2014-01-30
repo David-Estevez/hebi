@@ -5,20 +5,20 @@ PA
 ---------------------------------------
 * PA0 -> UART4 Tx
 * PA1 -> UART4 Rx
-* PA2 -> USART2 Tx (irDA) {Either this or PD5}
-* PA3 -> USART2 Rx (irDA) {Either this or PD6}
+* X PA2 -> USART2 Tx (irDA) {Either this or PD5}
+* X PA3 -> USART2 Rx (irDA) {Either this or PD6}
 * PA4 -> SPI1 NSS
 * PA5 -> SPI1 SCK
 * PA6 -> SPI1 MISO
 * PA7 -> SPI1 MOSI
 * PA8 -> I2C3 SCL
-* PA9 -> USB_POWER {VBUS_FS}
-* PA10 -> OTG_FS ID
+* X PA9 -> USB_POWER {VBUS_FS}
+* X PA10 -> OTG_FS ID
 * PA11 -> OTG_FS DM
 * PA12 -> OTG_FS DP
 * PA13 -> JTMS-SWDIO {debug interface}
 * PA14 -> SWCLK {debug interface}
-* PA15 -> SPI3 NSS ?
+* X PA15 -> SPI3 NSS ?
 
 PB
 ---------------------------------------
