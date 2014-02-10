@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date Fri 07 Feb 2014 13:18:56 CET
+EESchema Schematic File Version 2  date Mon 10 Feb 2014 12:02:56 CET
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -48,7 +48,7 @@ $Descr A2 23386 16535
 encoding utf-8
 Sheet 1 1
 Title "HEBI - Electronic Board for Modular Robots (STM32F4 flavour)"
-Date "7 feb 2014"
+Date "10 feb 2014"
 Rev "0.1.0"
 Comp "David Estévez Fernández"
 Comment1 ""
@@ -350,17 +350,6 @@ SWDIO
 Text Label 3300 6900 0    60   ~ 0
 SWCLK
 $Comp
-L C C15
-U 1 1 52EA557D
-P 10050 9600
-F 0 "C15" H 10050 9700 40  0000 L CNN
-F 1 "2.2uF" H 10056 9515 40  0000 L CNN
-F 2 "~" H 10088 9450 30  0000 C CNN
-F 3 "~" H 10050 9600 60  0000 C CNN
-	1    10050 9600
-	1    0    0    -1  
-$EndComp
-$Comp
 L SW_PUSH SW3
 U 1 1 52EA5583
 P 9350 13250
@@ -373,17 +362,6 @@ F 3 "~" H 9350 13250 60  0000 C CNN
 $EndComp
 Text Label 9850 13600 2    60   ~ 0
 BOOT0
-$Comp
-L C C18
-U 1 1 52EA558A
-P 10550 9600
-F 0 "C18" H 10550 9700 40  0000 L CNN
-F 1 "2.2uF" H 10556 9515 40  0000 L CNN
-F 2 "~" H 10588 9450 30  0000 C CNN
-F 3 "~" H 10550 9600 60  0000 C CNN
-	1    10550 9600
-	1    0    0    -1  
-$EndComp
 $Comp
 L GND #PWR012
 U 1 1 52EA5590
@@ -3542,4 +3520,26 @@ Wire Wire Line
 	13250 10500 12900 10500
 Wire Wire Line
 	12900 10900 13250 10900
+$Comp
+L CP1 C15
+U 1 1 52F8B1B8
+P 10050 9600
+F 0 "C15" H 10100 9700 40  0000 L CNN
+F 1 "2.2uF" H 10100 9500 40  0000 L CNN
+F 2 "~" H 10050 9600 60  0000 C CNN
+F 3 "~" H 10050 9600 60  0000 C CNN
+	1    10050 9600
+	1    0    0    -1  
+$EndComp
+$Comp
+L CP1 C18
+U 1 1 52F8B1E2
+P 10550 9600
+F 0 "C18" H 10600 9700 40  0000 L CNN
+F 1 "2.2uF" H 10600 9500 40  0000 L CNN
+F 2 "~" H 10550 9600 60  0000 C CNN
+F 3 "~" H 10550 9600 60  0000 C CNN
+	1    10550 9600
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
