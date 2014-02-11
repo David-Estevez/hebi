@@ -1,9 +1,12 @@
-PCBNEW-LibModule-V1  Mon 10 Feb 2014 13:58:57 CET
+PCBNEW-LibModule-V1  Tue 11 Feb 2014 13:16:13 CET
 # encoding utf-8
 Units mm
 $INDEX
 1411_hebi
+Crystal_5x3.2mm_SMD_hebi
 DO-214AC
+Gyro_LGA-16
+Push_switch_506-FSMSM_hebi
 $EndINDEX
 $MODULE 1411_hebi
 Po 0 0 0 15 52F8CD02 00000000 ~~
@@ -41,6 +44,35 @@ Ne 0 ""
 Po 1.56 0
 $EndPAD
 $EndMODULE 1411_hebi
+$MODULE Crystal_5x3.2mm_SMD_hebi
+Po 0 0 0 15 52FA0550 00000000 ~~
+Li Crystal_5x3.2mm_SMD_hebi
+Sc 0
+AR 
+Op 0 0 0
+T0 0.0254 2.5654 1 1 0 0.15 N V 21 N "Crystal_5x3.2mm_SMD_hebi"
+T1 0.127 -2.413 1 1 0 0.15 N V 21 N "VAL**"
+DS 2.5 1.6 2.5 1.2 0.15 21
+DS -2.5 -1.6 -2.5 -1.2 0.15 21
+DS -2.5 1.6 2.5 1.6 0.15 21
+DS 2.5 -1.2 2.5 -1.6 0.15 21
+DS -2.5 -1.6 2.5 -1.6 0.15 21
+DS -2.5 1.6 -2.5 1.2 0.15 21
+$PAD
+Sh "1" R 1.9 2.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.95 0
+$EndPAD
+$PAD
+Sh "2" R 1.9 2.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.95 0
+$EndPAD
+$EndMODULE Crystal_5x3.2mm_SMD_hebi
 $MODULE DO-214AC
 Po 0 0 0 15 52F8C54E 00000000 ~~
 Li DO-214AC
@@ -77,4 +109,161 @@ Ne 0 ""
 Po 1.7 0
 $EndPAD
 $EndMODULE DO-214AC
+$MODULE Gyro_LGA-16
+Po 0 0 0 15 52FA1480 00000000 ~~
+Li Gyro_LGA-16
+Sc 0
+AR 
+Op 0 0 0
+T0 0 2.8956 1 1 0 0.15 N V 21 N "Gyro_LGA-16"
+T1 0.0508 -3.3274 1 1 0 0.15 N V 21 N "VAL**"
+DS 2 -2 2 2 0.15 21
+DS 2 2 -2 2 0.15 21
+DS -2 2 -2 -2 0.15 21
+DS -2 -2 2 -2 0.15 21
+DC -1.6002 -1.6002 -1.6764 -1.7526 0.15 21
+$PAD
+Sh "1" R 0.4 0.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.7 -0.975
+$EndPAD
+$PAD
+Sh "2" R 0.4 0.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.7 -0.325
+$EndPAD
+$PAD
+Sh "3" R 0.4 0.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.7 0.325
+$EndPAD
+$PAD
+Sh "4" R 0.4 0.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.7 0.975
+$EndPAD
+$PAD
+Sh "5" R 0.3 0.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.975 1.7
+$EndPAD
+$PAD
+Sh "6" R 0.3 0.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.325 1.7
+$EndPAD
+$PAD
+Sh "7" R 0.3 0.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.325 1.7
+$EndPAD
+$PAD
+Sh "8" R 0.3 0.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.975 1.7
+$EndPAD
+$PAD
+Sh "9" R 0.4 0.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.7 0.975
+$EndPAD
+$PAD
+Sh "10" R 0.4 0.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.7 0.325
+$EndPAD
+$PAD
+Sh "11" R 0.4 0.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.7 -0.325
+$EndPAD
+$PAD
+Sh "12" R 0.4 0.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.7 -0.975
+$EndPAD
+$PAD
+Sh "13" R 0.3 0.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.975 -1.7
+$EndPAD
+$PAD
+Sh "14" R 0.3 0.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.325 -1.7
+$EndPAD
+$PAD
+Sh "15" R 0.3 0.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.325 -1.7
+$EndPAD
+$PAD
+Sh "16" R 0.3 0.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.975 -1.7
+$EndPAD
+$EndMODULE Gyro_LGA-16
+$MODULE Push_switch_506-FSMSM_hebi
+Po 0 0 0 15 52F9F931 00000000 ~~
+Li Push_switch_506-FSMSM_hebi
+Sc 0
+AR 
+Op 0 0 0
+T0 -0.0508 2.9464 1 1 0 0.15 N V 21 N "Push_switch_506-FSMSM_hebi"
+T1 0.2286 -2.6416 1 1 0 0.15 N V 21 N "VAL**"
+DS -1.5 -0.5 -1.5 0.5 0.15 21
+DS -1.5 0.5 1.5 0.5 0.15 21
+DS 1.5 0.5 1.5 -0.5 0.15 21
+DS -1.5 -0.5 1.5 -0.5 0.15 21
+DS 3 -1.75 3 1.75 0.15 21
+DS -3 -1.75 -3 1.75 0.15 21
+DS -3 1.75 3 1.75 0.15 21
+DS -3 -1.75 3 -1.75 0.15 21
+$PAD
+Sh "1" R 2.11 1.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.555 0
+$EndPAD
+$PAD
+Sh "2" R 2.11 1.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.555 0
+$EndPAD
+$EndMODULE Push_switch_506-FSMSM_hebi
 $EndLIBRARY
