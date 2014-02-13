@@ -1,4 +1,4 @@
-update=Mon 10 Feb 2014 13:27:55 CET
+update=Thu 13 Feb 2014 10:39:32 CET
 version=1
 last_client=cvpcb
 [general]
@@ -91,6 +91,7 @@ LibName14=pga_sockets
 LibName15=valves
 LibName16=/home/def/Dropbox/d-squared Robotics/SMT4dummies/Opendous Kicad Libraries and Modules/opendous
 LibName17=hebi-footprints
+LibName18=/home/def/Repositories/SMT4dummies/Custom Library
 LibDir=
 [cvpcb]
 version=1
