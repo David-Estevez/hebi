@@ -1,4 +1,4 @@
-update=Tue 18 Feb 2014 09:43:43 CET
+update=Wed 19 Feb 2014 12:47:59 CET
 version=1
 last_client=eeschema
 [general]
@@ -99,3 +99,4 @@ LibName40=l3gd20
 LibName41=lsm303dlhc
 LibName42=mcp1825s
 LibName43=hmc5883l
+LibName44=mpu-6050
