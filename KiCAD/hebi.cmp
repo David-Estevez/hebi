@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2013-mar-13)-testing date = Mon 24 Feb 2014 12:29:03 CET
+Cmp-Mod V01 Created by CvPcb (2013-mar-13)-testing date = Mon 24 Feb 2014 13:28:56 CET
 
 BeginCmp
 TimeStamp = /5304A286;
@@ -263,7 +263,7 @@ BeginCmp
 TimeStamp = /52EA5646;
 Reference = F1;
 ValeurCmp = MF-MSMF050-2;
-IdModule  = ;
+IdModule  = MF-MSMF050-2;
 EndCmp
 
 BeginCmp
@@ -396,70 +396,70 @@ BeginCmp
 TimeStamp = /52EA58DC;
 Reference = Q1;
 ValeurCmp = MOS_N_DIODE;
-IdModule  = SOT23-3_Opendous;
+IdModule  = SMT4dummies_SOT23-5_Opendous;
 EndCmp
 
 BeginCmp
 TimeStamp = /52EA58FC;
 Reference = Q2;
 ValeurCmp = MOS_N_DIODE;
-IdModule  = SOT23-3_Opendous;
+IdModule  = SMT4dummies_SOT23-5_Opendous;
 EndCmp
 
 BeginCmp
 TimeStamp = /52EA5783;
 Reference = Q3;
 ValeurCmp = MOS_N_DIODE;
-IdModule  = SOT23-3_Opendous;
+IdModule  = SMT4dummies_SOT23-5_Opendous;
 EndCmp
 
 BeginCmp
 TimeStamp = /52EA5789;
 Reference = Q4;
 ValeurCmp = MOS_N_DIODE;
-IdModule  = SOT23-3_Opendous;
+IdModule  = SMT4dummies_SOT23-5_Opendous;
 EndCmp
 
 BeginCmp
 TimeStamp = /52EA578F;
 Reference = Q5;
 ValeurCmp = MOS_N_DIODE;
-IdModule  = SOT23-3_Opendous;
+IdModule  = SMT4dummies_SOT23-5_Opendous;
 EndCmp
 
 BeginCmp
 TimeStamp = /52EA584F;
 Reference = Q6;
 ValeurCmp = MOS_N_DIODE;
-IdModule  = SOT23-3_Opendous;
+IdModule  = SMT4dummies_SOT23-5_Opendous;
 EndCmp
 
 BeginCmp
 TimeStamp = /52EA5855;
 Reference = Q7;
 ValeurCmp = MOS_N_DIODE;
-IdModule  = SOT23-3_Opendous;
+IdModule  = SMT4dummies_SOT23-5_Opendous;
 EndCmp
 
 BeginCmp
 TimeStamp = /52EA57FF;
 Reference = Q8;
 ValeurCmp = MOS_N;
-IdModule  = ;
+IdModule  = SMT4dummies_SOT23-5_Opendous;
 EndCmp
 
 BeginCmp
 TimeStamp = /52EA588F;
 Reference = Q9;
 ValeurCmp = MOS_N_DIODE;
-IdModule  = SOT23-3_Opendous;
+IdModule  = SMT4dummies_SOT23-5_Opendous;
 EndCmp
 
 BeginCmp
 TimeStamp = /52EA5895;
 Reference = Q10;
 ValeurCmp = MOS_N_DIODE;
-IdModule  = SOT23-3_Opendous;
+IdModule  = SMT4dummies_SOT23-5_Opendous;
 EndCmp
 
 BeginCmp
@@ -739,7 +739,7 @@ BeginCmp
 TimeStamp = /52EA5BD9;
 Reference = U3;
 ValeurCmp = MCP1825S;
-IdModule  = ;
+IdModule  = hebi_SOT-223-3;
 EndCmp
 
 BeginCmp
