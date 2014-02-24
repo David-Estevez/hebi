@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2013-mar-13)-testing date = Mon 24 Feb 2014 13:28:56 CET
+Cmp-Mod V01 Created by CvPcb (2013-mar-13)-testing date = Mon 24 Feb 2014 13:34:52 CET
 
 BeginCmp
 TimeStamp = /5304A286;
@@ -746,7 +746,7 @@ BeginCmp
 TimeStamp = /52EA54FD;
 Reference = U4;
 ValeurCmp = STM32F407VG;
-IdModule  = TQFP100;
+IdModule  = TQFP_100;
 EndCmp
 
 BeginCmp
