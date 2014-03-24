@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2013-mar-13)-testing date = Thu 20 Mar 2014 10:28:06 CET
+Cmp-Mod V01 Created by CvPcb (2013-mar-13)-testing date = Mon 24 Mar 2014 15:47:58 CET
 
 BeginCmp
 TimeStamp = /5304A286;
@@ -379,13 +379,6 @@ IdModule  = ZH_CONN_S4B-ZR-SM4A-TF;
 EndCmp
 
 BeginCmp
-TimeStamp = /52EA5C9D;
-Reference = P5;
-ValeurCmp = CONN_2;
-IdModule  = ZH_CONN_B2B-ZR-SM4-TF;
-EndCmp
-
-BeginCmp
 TimeStamp = /52EA5902;
 Reference = P6;
 ValeurCmp = CONN_2;
@@ -438,13 +431,6 @@ BeginCmp
 TimeStamp = /52EA5855;
 Reference = Q7;
 ValeurCmp = MOS_N_DIODE;
-IdModule  = hebi_SOT23-3;
-EndCmp
-
-BeginCmp
-TimeStamp = /52EA57FF;
-Reference = Q8;
-ValeurCmp = MOS_N;
 IdModule  = hebi_SOT23-3;
 EndCmp
 
@@ -659,20 +645,6 @@ IdModule  = SM0603_Opendous(generic);
 EndCmp
 
 BeginCmp
-TimeStamp = /52EA57EA;
-Reference = R29;
-ValeurCmp = 10K;
-IdModule  = SM0603_Opendous(generic);
-EndCmp
-
-BeginCmp
-TimeStamp = /52EA5805;
-Reference = R30;
-ValeurCmp = 4.7K;
-IdModule  = SM0603_Opendous(generic);
-EndCmp
-
-BeginCmp
 TimeStamp = /52EA5867;
 Reference = R31;
 ValeurCmp = 10K;
@@ -754,13 +726,6 @@ TimeStamp = /52EA569F;
 Reference = U5;
 ValeurCmp = XBEE;
 IdModule  = XBee-20Pin-hebi;
-EndCmp
-
-BeginCmp
-TimeStamp = /52EA57D6;
-Reference = U6;
-ValeurCmp = 74AHC2G126;
-IdModule  = VSSOP8_0.5mmPitch_2.3mm;
 EndCmp
 
 BeginCmp
