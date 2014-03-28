@@ -1,4 +1,4 @@
-update=Fri 21 Mar 2014 11:28:25 CET
+update=Fri 28 Mar 2014 10:57:26 CET
 version=1
 last_client=pcbnew
 [general]
@@ -65,10 +65,10 @@ LibName44=mpu-6050
 version=1
 LastNetListRead=
 UseCmpFile=1
-PadDrill="    0,600000"
-PadDrillOvalY="    0,600000"
-PadSizeH="    1,000000"
-PadSizeV="    1,000000"
+PadDrill="    0,000000"
+PadDrillOvalY="    0,000000"
+PadSizeH="    0,700000"
+PadSizeV="    3,200000"
 PcbTextSizeV="    1,000000"
 PcbTextSizeH="    1,000000"
 PcbTextThickness="    0,300000"
