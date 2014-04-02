@@ -1,32 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2013-mar-13)-testing date = Mon 24 Mar 2014 15:47:58 CET
-
-BeginCmp
-TimeStamp = /5304A286;
-Reference = C1;
-ValeurCmp = 0.1uF;
-IdModule  = SM0603_Opendous(generic);
-EndCmp
-
-BeginCmp
-TimeStamp = /5304A293;
-Reference = C2;
-ValeurCmp = 10nF;
-IdModule  = SM0805_Opendous(generic);
-EndCmp
-
-BeginCmp
-TimeStamp = /5304A299;
-Reference = C3;
-ValeurCmp = 0.1uF;
-IdModule  = SM0603_Opendous(generic);
-EndCmp
-
-BeginCmp
-TimeStamp = /5304A29F;
-Reference = C4;
-ValeurCmp = 2.2nF;
-IdModule  = SM0805_Opendous(generic);
-EndCmp
+Cmp-Mod V01 Created by CvPcb (2013-mar-13)-testing date = Tue 01 Apr 2014 10:57:51 CEST
 
 BeginCmp
 TimeStamp = /52EA5543;
@@ -47,13 +19,6 @@ TimeStamp = /52EA5524;
 Reference = C7;
 ValeurCmp = 24pF;
 IdModule  = SM0603_Opendous(generic);
-EndCmp
-
-BeginCmp
-TimeStamp = /5303686C;
-Reference = C8;
-ValeurCmp = 4.7uF;
-IdModule  = SM0805_Opendous(generic);
 EndCmp
 
 BeginCmp
@@ -89,13 +54,6 @@ TimeStamp = /52EA5C06;
 Reference = C13;
 ValeurCmp = 4.7uF X7R 0805;
 IdModule  = SM0805_Opendous(generic);
-EndCmp
-
-BeginCmp
-TimeStamp = /52EA593A;
-Reference = C14;
-ValeurCmp = 220nF;
-IdModule  = SM0603_Opendous(generic);
 EndCmp
 
 BeginCmp
@@ -264,13 +222,6 @@ TimeStamp = /52EA5646;
 Reference = F1;
 ValeurCmp = MF-MSMF050-2;
 IdModule  = MF-MSMF050-2;
-EndCmp
-
-BeginCmp
-TimeStamp = /5304E397;
-Reference = JP1;
-ValeurCmp = JUMPER3;
-IdModule  = 0805_Jumper;
 EndCmp
 
 BeginCmp
@@ -470,13 +421,6 @@ IdModule  = SM0603_Opendous(generic);
 EndCmp
 
 BeginCmp
-TimeStamp = /52EA7242;
-Reference = R4;
-ValeurCmp = 4.7K;
-IdModule  = SM0603_Opendous(generic);
-EndCmp
-
-BeginCmp
 TimeStamp = /52EA57C2;
 Reference = R5;
 ValeurCmp = 510;
@@ -501,13 +445,6 @@ BeginCmp
 TimeStamp = /52EA57B0;
 Reference = R8;
 ValeurCmp = 680;
-IdModule  = SM0603_Opendous(generic);
-EndCmp
-
-BeginCmp
-TimeStamp = /52EA723C;
-Reference = R9;
-ValeurCmp = 4.7K;
 IdModule  = SM0603_Opendous(generic);
 EndCmp
 
@@ -691,20 +628,6 @@ TimeStamp = /52EA5583;
 Reference = SW3;
 ValeurCmp = SW_PUSH;
 IdModule  = Push_switch_506-FSMSM_hebi;
-EndCmp
-
-BeginCmp
-TimeStamp = /530507BD;
-Reference = U1;
-ValeurCmp = MPU-6050;
-IdModule  = MPU-6050;
-EndCmp
-
-BeginCmp
-TimeStamp = /530506B9;
-Reference = U2;
-ValeurCmp = HMC5883L;
-IdModule  = HMC58583L-hebi;
 EndCmp
 
 BeginCmp
