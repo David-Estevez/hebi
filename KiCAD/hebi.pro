@@ -1,8 +1,6 @@
-update=Fri 28 Mar 2014 10:57:26 CET
+update=Wed 02 Apr 2014 13:30:54 CEST
 version=1
-last_client=pcbnew
-[general]
-version=1
+last_client=kicad
 [cvpcb]
 version=1
 NetIExt=net
@@ -101,3 +99,5 @@ LibName16=/home/def/Dropbox/d-squared Robotics/SMT4dummies/Opendous Kicad Librar
 LibName17=hebi-footprints
 LibName18=/home/def/Repositories/SMT4dummies/Custom Library
 LibName19=/home/def/Dropbox/Share/Kicad/monolito-1.2/Monolito-1_2
+[general]
+version=1
