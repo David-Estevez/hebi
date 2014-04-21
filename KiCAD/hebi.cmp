@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2013-mar-13)-testing date = Tue 01 Apr 2014 10:57:51 CEST
+Cmp-Mod V01 Created by CvPcb (2013-mar-13)-testing date = Mon 21 Apr 2014 11:37:04 CEST
 
 BeginCmp
 TimeStamp = /52EA5543;
@@ -130,7 +130,7 @@ BeginCmp
 TimeStamp = /52EA567A;
 Reference = C25;
 ValeurCmp = 22uF;
-IdModule  = c_elec_5x5.3;
+IdModule  = 1411_hebi;
 EndCmp
 
 BeginCmp
